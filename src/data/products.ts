@@ -1813,36 +1813,36 @@ export const categories: Category[] = [
     id: "smartphones",
     name: "Smartphones",
     image: phone1,
-    productCount: 6
+    productCount: 17
   },
   {
     id: "audio",
     name: "Audio",
     image: earbuds1,
-    productCount: 5
+    productCount: 17
   },
   {
     id: "wearables",
     name: "Wearables",
     image: watch1,
-    productCount: 4
+    productCount: 16
   },
   {
     id: "computers",
     name: "Computers",
     image: laptop1,
-    productCount: 6
+    productCount: 18
   },
   {
     id: "tablets",
     name: "Tablets",
     image: tablet1,
-    productCount: 5
+    productCount: 15
   },
   {
     id: "accessories",
     name: "Accessories",
     image: cable1,
-    productCount: 5
+    productCount: 17
   }
 ];
